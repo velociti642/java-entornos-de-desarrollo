@@ -8,7 +8,7 @@ public class Circulo {
      * Default constructor
      */
     public Circulo() {
-    	this.radio = 1;
+    	this.radio = 3;
     }
     /**
      * @param radio

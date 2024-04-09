@@ -9,10 +9,8 @@ public class Main {
 		Rectangulo r1 = new Rectangulo();
 		Rectangulo r2 = new Rectangulo();
 
-		int area1 = r1.getArea();
-		int perimetro = r2.getPerimetro();
 		
-		System.out.print("El área del rectangulo es: " + area1 + "\n El perímetro del rectangulo es: " + perimetro);
+		System.out.print("El área del rectangulo es: " + "\n El perímetro del rectangulo es: " );
 		
 		
 	}

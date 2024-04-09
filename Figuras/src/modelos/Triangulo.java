@@ -9,7 +9,7 @@ public class Triangulo {
 
     public Triangulo() {
     	this.base = 1;
-    	this.altura = 1;
+    	this.altura = 2;
     }
     
     /**
