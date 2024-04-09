@@ -8,6 +8,9 @@ import util.Algoritmos;
 
 class TestAlgoritmos {
 
+	/**
+	 * Llamamos 
+	 */
 	@Test
 	void sumatorio() {
 		int sumaEsperada = 10;
